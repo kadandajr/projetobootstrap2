@@ -1,0 +1,10 @@
+main {
+    width: 90%;
+    margin: auto;
+}
+
+.mb-3 {
+    width: 200px;
+    margin-right: 10px;
+    margin-bottom: 0 !important;
+}
